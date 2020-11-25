@@ -1,0 +1,45 @@
+body {
+
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: black;
+    color: white;
+    
+}
+
+h1 {
+    font-weight: 300;
+    font-size-adjust: 42px;
+}
+
+img {
+
+    padding-bottom: 15px;
+}
+.intro h1 {
+
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+a {
+    color: aquamarine;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
+
+.foot p {
+
+    color: grey;
+}
+
+.copy {
+    font-size: 21px;
+    color: grey;
+}
+#copywr {
+    text-align: right;
+}
+
+
